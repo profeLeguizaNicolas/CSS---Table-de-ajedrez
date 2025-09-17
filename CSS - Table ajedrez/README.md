@@ -12,7 +12,8 @@ A partir de la imagen proporcionada, debes escribir código `CSS` necesario para
 
 *Ayuda*:
 
-- `Cuadrado negro y blanco` :  100 x 100 pixeles.
+- `Cuadrados negros y blancos` :  100 x 100 pixeles.
 - `filas` : *display - flex* y un ancho de 800 pixeles con un alto de 100 pixeles.
+
 
 </div>
